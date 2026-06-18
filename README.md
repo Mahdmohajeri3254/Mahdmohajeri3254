@@ -13,7 +13,7 @@ Backend Developer | Python & Django Developer
 - ⚡ Intrested in Data structures , BI and DeepLearnind
 - 📖 Currently learning software architecture and various system design patterns
 
-## 🧰 Tech Stack
+## 🧰 Skills
 
 
 ![Python](https://skillicons.dev/icons?i=python)
