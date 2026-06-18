@@ -22,6 +22,7 @@ Backend Developer | Python & Django Developer
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![JS](https://skillicons.dev/icons?i=javascript)
 ![Git](https://skillicons.dev/icons?i=git)
