@@ -4,7 +4,6 @@
 Backend Developer | Python & Django Developer  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Django+Developer;Web+Scraper;Database+Enthusiast&center=true&size=25)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=Mahdmohajeri3254&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
