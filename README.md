@@ -31,3 +31,5 @@ Backend Developer | Python & Django Developer
 ## 🧠 CS Fundamentals
 Data Structures • Algorithms • Problem Solving
 
+<img src="https://komarev.com/ghpvc/?username=Mahdmohajeri3254&label=Profile%20Views&color=brightgreen&style=flat" />
+
