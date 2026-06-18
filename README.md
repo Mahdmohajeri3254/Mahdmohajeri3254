@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 ![JS](https://skillicons.dev/icons?i=javascript)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+
+## 🧠 CS Fundamentals
+Data Structures • Algorithms • Problem Solving
