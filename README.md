@@ -8,7 +8,6 @@ Backend Developer | Python & Django Developer
 </div>
 
 
-Here are some ideas to get you started:
 - 🔭 Backend Developer focused on databases and APIs
 - 🌱 Focused on Web Scraping and Data Extraction
 - ⚡ Intrested in Data structures , BI and DeepLearnind
