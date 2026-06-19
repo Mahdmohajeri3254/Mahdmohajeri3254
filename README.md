@@ -10,7 +10,7 @@ Backend Developer | Python & Django Developer
 
 - 🔭 Backend Developer focused on databases and APIs
 - 🌱 Focused on Web Scraping and Data Extraction
-- ⚡ Intrested in Data structures , BI and DeepLearnind
+- ⚡ Intrested in Data structures , BI and DeepLearning
 - 📖 Currently learning software architecture and various system design patterns
 
 ## 🧰 Skills
